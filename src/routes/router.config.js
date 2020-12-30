@@ -7,10 +7,10 @@ import Date from '../pages/date/index.jsx';
 
 export const routerConfig = [
     {
-        path:'/home',
+        path:'/home', // 首页
         component: Home
     },{
-        path:'/kind',
+        path:'/kind', // 发范德萨分
         component: Kind
     },{
         path:'/cart',
