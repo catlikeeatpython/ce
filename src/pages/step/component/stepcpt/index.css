@@ -1,0 +1,36 @@
+.step_cpt{
+  width: 1200px;
+  position: relative;
+  padding: 20px 20px;
+}
+
+.step_cpt .ant-steps-item-finish .ant-steps-item-content .ant-steps-item-title,.steps_cpt .ant-steps-item-process .ant-steps-item-content .ant-steps-item-title{
+  color: #B72731;
+}
+
+.step_cpt .ant-steps-item-finish > .ant-steps-item-container > .ant-steps-item-tail::after{
+  background-color:  #B72731;
+  color: #B72731;
+}
+
+.step_cpt  .ant-steps-item-finish .ant-steps-item-icon > .ant-steps-icon .ant-steps-icon-dot,.ant-steps-item-process .ant-steps-item-icon > .ant-steps-icon .ant-steps-icon-dot{
+  background: #B72731;
+}
+
+.step_cpt .ant-steps-item-container{
+  position: relative;
+}
+
+.step_cpt .ant-steps-dot .ant-steps-item-content,.step_cpt .ant-steps-dot.ant-steps-small .ant-steps-item-content{
+  position: absolute;
+  left: 16px;
+}
+
+.step_cpt .ant-steps-dot .ant-steps-item-content, .ant-steps-dot.ant-steps-small .ant-steps-item-content{
+  width: 110px;
+}
+.step_cpt .ant-steps-item img{
+  position: absolute;
+  left: 69px;
+  top: -18px;
+}
