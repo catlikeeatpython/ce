@@ -1,6 +1,6 @@
 import React,{Component} from 'react';
 import {Table} from 'antd';
-// import logo from './logo.svg';
+import logo from './logo.svg';
 import './App.css';
 
 // function App() {
