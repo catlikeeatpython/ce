@@ -59,6 +59,8 @@ class Cart extends Component{
     // Math.random() 随机数0-1（不包括1）
         // Math.round() 函数返回一个数字四舍五入后最接近的整数
     // Math.random() 随机数0-1（不包括1）
+    // afasfasfaf
+    // sd撒旦飞洒泼妇凯撒搭配佛萨婆地方平时东风破撒旦飞洒怕放地上爬都i赛跑的
     
     const date2 = new Date('1995-12-17T03:24:00');
     console.log(date2)
