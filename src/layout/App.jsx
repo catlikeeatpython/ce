@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { Switch, Route,} from 'react-router-dom';
 // import Home from '../page/home/index.jsx';
-// import Kind from '../page/kind/index.jsx';
 import {routerConfig} from '../routes/router.config.js'
 
 
